@@ -11,7 +11,7 @@
 
 | List View                               | Record View                                 |
 | --------------------------------------- | ------------------------------------------- |
-| ![img-demo-list.png](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ejaupze45lwhy07lxdte.png) | ![img-demo-record.png](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b63w40wbqcoa87niybh1.png) |
+| ![img-demo-list.png](https://github.com/emilythecat/googlemaps-kintone/blob/main/img-demo-list.png?raw=true) | ![img-demo-record.png](https://github.com/emilythecat/googlemaps-kintone/blob/main/img-demo-record.png?raw=true) |
 
 ## Introduction
 Here is a blog post and sample code to display Kintone records on Google Maps. It is a submission for the Kintone Customization Contest 2023.
@@ -46,7 +46,7 @@ As an example, I have created a "UC Campus" app that lists the University of Cal
 
 | Step 1                                        | Step 2                                            | Step 3                                    |
 | --------------------------------------------- | ------------------------------------------------- | ----------------------------------------- |
-![img-kintone-form.png](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gvycdfi8gjqymrvfi959.png) | ![img-kintone-import.png](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7sl8nzx04rzelq2fjvja.png) | ![img-kintone-js.png](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/phwl57eiaug55mvbll9j.png)
+![img-kintone-form.png](https://github.com/emilythecat/googlemaps-kintone/blob/main/img-kintone-form.png?raw=true) | ![img-kintone-import.png](https://github.com/emilythecat/googlemaps-kintone/blob/main/img-kintone-import.png?raw=true) | ![img-kintone-js.png](https://github.com/emilythecat/googlemaps-kintone/blob/main/img-kintone-js.png?raw=true)
 
 ## Debugging
 
